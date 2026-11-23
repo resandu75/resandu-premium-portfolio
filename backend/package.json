@@ -1,0 +1,1 @@
+{"name":"resandu-portfolio-backend","private":true,"version":"1.0.0","type":"module","scripts":{"dev":"node --watch server.js","start":"node server.js"},"dependencies":{"express":"^4.21.2","helmet":"^8.0.0","express-rate-limit":"^7.5.0","better-sqlite3":"^11.8.1","dotenv":"^16.4.7"}}
